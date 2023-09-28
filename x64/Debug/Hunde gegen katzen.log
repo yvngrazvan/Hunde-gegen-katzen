@@ -1,0 +1,6 @@
+﻿  Hunde gegen katzen.cpp
+E:\C++ Programme\Hunde gegen katzen\Hunde gegen katzen.cpp(70,12): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+E:\C++ Programme\Hunde gegen katzen\Hunde gegen katzen.cpp(216,10): warning C4129: " ": nicht erkannte Folge von Escapesequenz
+E:\C++ Programme\Hunde gegen katzen\Hunde gegen katzen.cpp(219,10): warning C4129: " ": nicht erkannte Folge von Escapesequenz
+E:\C++ Programme\Hunde gegen katzen\Hunde gegen katzen.cpp(227,10): warning C4129: ";": nicht erkannte Folge von Escapesequenz
+  Hunde gegen katzen.vcxproj -> E:\C++ Programme\x64\Debug\Hunde gegen katzen.exe
